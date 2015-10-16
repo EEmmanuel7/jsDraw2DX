@@ -1,1 +1,2 @@
-# jsDraw2D
+# jsDraw2DX : SVG Graphics Library for JavaScript (HTML5 Ready) [Alpha]
+  Welcome to the home page of jsDraw2DX javascript graphics library. The library uses SVG to render the graphics on all modern desktop browsers (Chrome, Firefox, IE9, Safari, Opera, IE10 etc.) having SVG support. For old IE browsers (IE6, IE7 and IE8), the library uses VML to render the graphics. Since the rendering of both SVG and VML are almost same, jsDraw2DX provides cross-browser compatibility. Since HTML5 standard is out, and is supported by almost all modern browsers including IE9 and IE10, the standard is now very important in web development. Considering this, jsDraw2DX is HTML5 ready solution because SVG is also a part of HTML5 standard.
